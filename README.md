@@ -1,16 +1,13 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-HindCodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Website Badge](https://img.shields.io/badge/WebSite-HindCodes-green)](https://www.HindCodes)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-HindCodes-yellow)](https://stackoverflow.com/users/21286605/hindcodes-)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm a Full-Stack Developer Intern at Edureka. I am a passionate self-taught coder and I really enjoy the results of the hard work I put forth into my learning. I also enjoy discovering new tools and resources that make the journey so much more fun and enjoyable. I hope to work for a company that provides opportunties for learning and an enjoyable work enivronment. Beginner Level: HTML, CSS, GitHub, VS Code, GitBash, Angular, JAVAScript, NodeJS, MySQL, Maven, Jenkins, Selenium, Docker...
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/hindcodes/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
