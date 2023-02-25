@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-HindCodes-green)](https://www.HindCodes)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-HindCodes-yellow)](https://stackoverflow.com/users/21286605/hindcodes-)
 
-I'm a Full-Stack Developer Intern at Edureka. I am a passionate self-taught coder and I really enjoy the results of the hard work I put forth into my learning. I also enjoy discovering new tools and resources that make the journey so much more fun and enjoyable. I hope to work for a company that provides opportunties for learning and an enjoyable work enivronment. Beginner Level Skills: HTML, CSS, GitHub, VS Code, GitBash, Angular, JAVAScript, NodeJS, MySQL, Maven, Jenkins, Selenium, Docker...
+I'm a Full-Stack Developer Intern at Edureka. I am a passionate self-taught coder and I really enjoy the results of the hard work I put forth into my learning. I also enjoy discovering new tools and resources that make the journey so much more fun and enjoyable. I hope to work for a company that provides opportunties for learning and an enjoyable work enivronment. I have worked with these languages on a beginner level: HTML, CSS, GitHub, VS Code, GitBash, Angular, JAVAScript, NodeJS, MySQL, Maven, Jenkins, Selenium, Docker...
 
 
 ![Visitor Count](https://profile-counter.glitch.me/hindcodes/count.svg)
