@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-HindCodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HindCodes--01629954/)]([https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/hind-as-salafi-874b631a8/))
+[![Linkedin Badge](https://img.shields.io/badge/-HindCodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/hind-as-salafi-874b631a8/)(https://www.linkedin.com/in/hind-as-salafi-874b631a8/))
 [![Website Badge](https://img.shields.io/badge/WebSite-HindCodes-green)](https://www.HindCodes)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-HindCodes-yellow)](https://stackoverflow.com/users/21286605/hindcodes-)
 
