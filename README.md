@@ -75,6 +75,6 @@
 ---
 <br />
 
-<h2>👋Let's part on a happy note😁</h2>
+<h2>Let's part on a happy note😁</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
