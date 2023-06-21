@@ -69,7 +69,7 @@
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
 
-[](https://komarev.com/ghpvc/?username=hindcodes)
+![](https://komarev.com/ghpvc/?username=hindcodes)
 
 <h2>Connect With Me 📞</h2> 
 <p align="left">
