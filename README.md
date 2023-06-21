@@ -59,6 +59,7 @@
 <br />
 
 <h2>My Trophies 🏆 </h2> 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hindcodes)](https://github.com/hindcodes/github-profile-trophy)
                     
 
