@@ -72,8 +72,9 @@
 <a href="https://www.linkedin.com/in/hind-as-salafi-874b631a8/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
 
-
 <br />
+
+
 
 <h2>Let's part on a happy note😁</h2>
 
