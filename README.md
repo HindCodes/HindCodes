@@ -6,7 +6,8 @@
 <br />
                     
 <p align="left">I am a passionate self-taught coder. I enjoy the results of the hard work I put forth into my learning. I also enjoy discovering new tools and resources that make the journey so much more fun and enjoyable. I hope to work for a company that provides opportunties for learning and an enjoyable work environment.</p>
- -🔭 I’m currently working on **Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications**
+
+- 🔭 I’m currently working on **Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications**
 
 - 🤝 I’m hoping to get hired as a **Full Stack Web Developer**
 
