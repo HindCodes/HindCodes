@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/HindCodes/HindCodes/assets/121991962/3fdee029-1ae7-4345-b880-cfd2a8d9fe33)](https://github.com/HindCodes)
 <h1>🌸Hind As-Salafi</h1>
 
-`**Digital Craftsman (Developer / Programmer)**`
+**Digital Craftsman (Developer / Programmer)**
 
 <br />
                     
