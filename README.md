@@ -90,8 +90,3 @@
 <a href="https://www.youtube.com/c/hindcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hindcodes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hindcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hindcodes" height="30" width="40" /></a>
 </p>
-<p align="left">
-<a href="https://www.instagram.com/hindcodes/" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" /></a>
-<a href="https://www.youtube.com/channel/UCYh4JLZYYXBWyZlBPhhjiZQ" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" /></a>
-<a href="https://www.linkedin.com/in/hind-as-salafi-874b631a8/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-</p>
