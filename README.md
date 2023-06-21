@@ -6,6 +6,22 @@
 <br />
                     
 <p align="left">I am a passionate self-taught coder. I enjoy the results of the hard work I put forth into my learning. I also enjoy discovering new tools and resources that make the journey so much more fun and enjoyable. I hope to work for a company that provides opportunties for learning and an enjoyable work environment.</p>
+ 🔭 I’m currently working on **Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications**
+
+- 🤝 I’m hoping to get hired as a **Full Stack Web Developer**
+
+- 👨‍💻 All of my projects are available at [https://github.com/HindCodes](https://github.com/HindCodes)
+
+- 📝 I am hoping to create a blog explaining coding basics! [Stay tuned...](Stay tuned...)
+
+- 💬 Ask me about **react, javascript,**
+
+- 📫 How to reach me **hindcodes101@gmail.com**
+
+- 📄 Know about my experiences [https://hindcodes.github.io/HindCodes-Resume/](https://hindcodes.github.io/HindCodes-Resume/)
+
+- ⚡ Fun fact **I Love Cats! 🐱(I have 6 btw)**
+
 <p align="left"> 
   <a href="https://github.com/hindcodes?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hindcodes?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
