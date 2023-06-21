@@ -58,6 +58,7 @@
 <p><a href="https://github.com/hindcodes/Pizza-Restaurant#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hindcodes&repo=Pizza-Restaurant&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
+<h2>My Trophies 🏆 </h2> 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hindcodes)](https://github.com/hindcodes/github-profile-trophy)
                     
 
