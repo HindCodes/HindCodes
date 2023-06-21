@@ -1,5 +1,4 @@
-### Hi there 👋
-![image](https://github.com/HindCodes/HindCodes/assets/121991962/6bc0beb2-9813-4cb0-82ef-401ff3c8c72c)
+[![MasterHead](https://github.com/HindCodes/HindCodes/assets/121991962/f6bf8e5e-d517-41ef-b446-f4f7cdc4bfe1)(https://github.com/HindCodes)
 
 <!--
 **HindCodes/HindCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
