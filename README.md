@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HindCodes](https://github.com/HindCodes)
 
-- 📝 I am hoping to create a blog explaining coding basics! [Stay tuned...](Stay tuned...)
+- 📝 I am hoping to create a blog explaining coding basics! Stay tuned...
 
 - 💬 Ask me about **react, javascript,**
 
