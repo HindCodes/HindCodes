@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hindcodes101@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AgK_B8N85YWagbQdyYEr0dhSRC3B2g?e=zkxiIq)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AgK_B8N85YWagbVBYkXehVuxuMTJUQ?e=rdAK0q)
 
 - ⚡ Fun fact **I Love Cats! 🐱(I have 6 btw)**
 
