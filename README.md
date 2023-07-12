@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hindcodes101@gmail.com**
 
-- 📄 Know about my experiences [https://hindcodes.github.io/HindCodes-Resume/](https://hindcodes.github.io/HindCodes-Resume/)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFh4Uwxzes/cw_jJPAFjbbbbE1OT1eleg/edit?utm_content=DAFh4Uwxzes&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 - ⚡ Fun fact **I Love Cats! 🐱(I have 6 btw)**
 
