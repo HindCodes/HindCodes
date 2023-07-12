@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AgK_B8N85YWagbVBYkXehVuxuMTJUQ?e=rdAK0q)
 
-- ⚡ Fun fact **I Love Cats! 🐱(I have 6 btw)**
+- ⚡ Fun fact **I Love Cats! 🐱**
 
 <p align="left"> 
   <a href="https://github.com/hindcodes?tab=repositories&sort=stargazers#gh-light-mode-only">
