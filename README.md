@@ -1,15 +1,15 @@
 [![MasterHead](https://github.com/HindCodes/HindCodes/assets/121991962/3fdee029-1ae7-4345-b880-cfd2a8d9fe33)](https://github.com/HindCodes)
 <h1>🌸Hind As-Salafi</h1>
 
-**Aspiring Digital Craftsman (Jr. Developer / Programmer)**
+**Aspiring Digital Craftsman (Freelance Developer)**
 
 <br />
                     
-<p align="left">I am a passionate self-taught coder. I enjoy the results of the hard work I put forth into my learning. I also enjoy discovering new tools and resources that make the journey so much more fun and enjoyable. I hope to work for a company that provides opportunties for learning and an enjoyable work environment.</p>
+<p align="left">I am a passionate self-taught coder. I enjoy the results of the hard work I put forth into my learning. I also enjoy discovering new tools and resources that make the journey so much more fun and enjoyable. </p>
 
 - 🔭 I’m currently working on **Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications**
 
-- 🤝 I’m hoping to get hired as a **Full Stack Web Developer**
+- 🤝 I’m hoping to get hired as a **Freelance Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HindCodes](https://github.com/HindCodes)
 
